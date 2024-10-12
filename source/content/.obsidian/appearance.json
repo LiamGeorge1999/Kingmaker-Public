@@ -1,1 +1,6 @@
-{}
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "remove-embed-titles"
+  ]
+}

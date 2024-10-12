@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "6664d2a0b269e1f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf9b30575b42f318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25313adbe389af91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events Timeline/Events Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7494de7d68b5aede",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b21d06198df5faf2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e814faa05d4de61b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "57ddd5fb47198f8e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d2d516cbb3715167",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bed194cf1aa6f9dc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b15ed25345d80f31",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Events Timeline/Events Timeline.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0176f8281bc32507",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Events Timeline/Events Timeline.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b992aae87b22d3b0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Events Timeline/Events Timeline.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "25313adbe389af91",
+  "lastOpenFiles": [
+    "Characters/Deities/Urgathoa.md",
+    "Events Timeline/Events Timeline.md",
+    "Characters/Deities",
+    "Characters/Groups/Thorn River Bandits.md",
+    "Places/Oleg's Trading Post.md",
+    "Events Timeline/Comeuppance.md",
+    "Characters/Groups/House Quinn/House Quinn.md",
+    "Events Timeline/Something for Nothing.md",
+    "Characters/Groups/The Obsidian Eye/Septus Valron.md",
+    "Events Timeline/Tit for Tat.md",
+    "Events Timeline/Rocky Road.md",
+    "Events Timeline/Old Friends, New Problems.md",
+    "Artifacts/The Charter.md",
+    "Events Timeline/Unveiled.md",
+    "Events Timeline/Beneath Fort Serenko.md",
+    "Events Timeline/Unburied.md",
+    "Events Timeline/The Misstep.md",
+    "Events Timeline/Old Blades and New Blood.md",
+    "Events Timeline/Flies and Webs.md",
+    "Events Timeline/Opening the Eye.md",
+    "Characters/Groups/The Obsidian Eye/Victor.md",
+    "Events Timeline/False Haven.md",
+    "Events Timeline/Storms Brewing.md",
+    "Places/Fort Serenko.md",
+    "Places/Navatka's Crossing.md"
+  ]
+}

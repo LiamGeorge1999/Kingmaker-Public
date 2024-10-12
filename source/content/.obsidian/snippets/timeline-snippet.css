@@ -1,0 +1,338 @@
+.timeline.spaced-lines ul:not(ul ul) > li:nth-child(3n) p {
+  list-style-type: none;
+  line-height: 1.7rem;
+}
+
+.timeline {
+  list-style-type: none;
+  --timeline-active-color: var(--background-modifier-success);
+}
+
+.timeline.active-color-background-modifier-success {
+  list-style-type: none;
+  --timeline-active-color: var(--background-modifier-success);
+}
+
+.timeline.active-color-background-modifier-error {
+  list-style-type: none;
+  --timeline-active-color: var(--background-modifier-error);
+}
+
+.timeline.active-color-background-modifier-error-hover {
+  list-style-type: none;
+  --timeline-active-color: var(--background-modifier-error-hover);
+}
+
+.timeline.active-color-text-accent {
+  list-style-type: none;
+  --timeline-active-color: var(--text-accent);
+}
+
+.timeline.active-color-text-accent-hover {
+  list-style-type: none;
+  --timeline-active-color: var(--text-accent-hover);
+}
+
+.timeline.active-color-text-error {
+  list-style-type: none;
+  --timeline-active-color: var(--text-error);
+}
+
+.timeline.active-color-text-error-hover {
+  list-style-type: none;
+  --timeline-active-color: var(--text-error-hover);
+}
+
+.timeline.active-color-text-selection {
+  list-style-type: none;
+  --timeline-active-color: var(--text-selection);
+}
+
+.timeline.active-color-interactive-accent {
+  list-style-type: none;
+  --timeline-active-color: var(--interactive-accent);
+}
+
+.timeline.active-color-interactive-accent-hover {
+  list-style-type: none;
+  --timeline-active-color: var(--interactive-accent-hover);
+}
+
+.timeline.active-color-interactive-success {
+  list-style-type: none;
+  --timeline-active-color: var(--interactive-success);
+}
+
+.timeline ul:not(ul ul) {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  column-gap: 1.5rem;
+  margin: 2.3rem 0;
+}
+.timeline ul:not(ul ul) > li {
+  list-style-type: none;
+  list-style: none;
+}
+.timeline ul:not(ul ul) > li > *:first-child {
+  list-style-type: none;
+  margin-top: 0;
+}
+.timeline ul:not(ul ul) > li > *:last-child {
+  list-style-type: none;
+  margin-bottom: 0;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n), .timeline ul:not(ul ul) > li:nth-child(3n+2) {
+  list-style-type: none;
+  grid-column: 3;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n+1), .timeline ul:not(ul ul) > li:nth-child(3n+2) {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0.4em 0;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n+1) > *, .timeline ul:not(ul ul) > li:nth-child(3n+2) > * {
+  list-style-type: none;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n+1) {
+  list-style-type: none;
+  grid-column: 1;
+  position: relative;
+  justify-self: right;
+  text-align: right;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n+1)::before, .timeline ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  content: " ";
+  position: absolute;
+  height: 100%;
+  width: 0.5rem;
+  right: -2rem;
+  top: 0;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n+1)::before {
+  list-style-type: none;
+  background-color: var(--background-primary);
+}
+.timeline ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  background-color: var(--text-normal);
+  opacity: 0.25;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n) {
+  list-style-type: none;
+  position: relative;
+  margin-bottom: 4.5rem;
+  padding-top: 0.4em;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n)::after {
+  list-style-type: none;
+  content: " ";
+  position: absolute;
+  border-bottom: 0.1rem dashed var(--text-normal);
+  opacity: 0.1;
+  width: 100%;
+  left: 0;
+  bottom: -2.25rem;
+  transform: translateY(50%);
+}
+.timeline ul:not(ul ul) > li:nth-child(3n):last-child {
+  list-style-type: none;
+  margin-bottom: 0.4em;
+}
+.timeline ul:not(ul ul) > li:nth-child(3n):last-child::after {
+  list-style-type: none;
+  display: none;
+}
+.timeline ul:not(ul ul)::before {
+  list-style-type: none;
+  content: "";
+  height: 100%;
+  width: 0.5rem;
+  grid-column: 2/span 1;
+  grid-row-start: 1;
+  grid-row-end: span 1000;
+  background-color: var(--text-normal);
+  opacity: 0.1;
+}
+
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n+2), .timeline.body-2 ul:not(ul ul) > li:nth-child(3n), .timeline.body-3 ul:not(ul ul) > li:nth-child(3n+2), .timeline.body-3 ul:not(ul ul) > li:nth-child(3n), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n+2), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n) {
+  list-style-type: none;
+  background-color: var(--background-primary-alt);
+}
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n), .timeline.body-3 ul:not(ul ul) > li:nth-child(3n), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n) {
+  list-style-type: none;
+  margin-bottom: 2.25rem;
+}
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n):last-child, .timeline.body-3 ul:not(ul ul) > li:nth-child(3n):last-child, .timeline.body-4 ul:not(ul ul) > li:nth-child(3n):last-child {
+  list-style-type: none;
+  margin-bottom: 0.4em;
+}
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n)::after, .timeline.body-3 ul:not(ul ul) > li:nth-child(3n)::after, .timeline.body-4 ul:not(ul ul) > li:nth-child(3n)::after {
+  list-style-type: none;
+  display: none;
+}
+
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n), .timeline.body-2 ul:not(ul ul) > li:nth-child(3n+2), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n+2) {
+  list-style-type: none;
+  padding: 1.5rem;
+  padding-top: 0.4em;
+}
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n+2), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n+2) {
+  list-style-type: none;
+  padding-bottom: 0;
+}
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n+1), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n+1) {
+  list-style-type: none;
+  margin-top: 0.4em;
+}
+
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n+2) {
+  list-style-type: none;
+  border-radius: 1.5rem 1.5rem 0 0;
+}
+.timeline.body-2 ul:not(ul ul) > li:nth-child(3n) {
+  list-style-type: none;
+  border-radius: 0 0 1.5rem 1.5rem;
+}
+
+.timeline.body-3 ul:not(ul ul) > li:nth-child(3n+2), .timeline.body-3 ul:not(ul ul) > li:nth-child(3n) {
+  list-style-type: none;
+  margin-left: 1rem;
+}
+.timeline.body-3 ul:not(ul ul) > li:nth-child(3n+2) {
+  list-style-type: none;
+  position: relative;
+  background: var(--timeline-active-color);
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.timeline.body-3 ul:not(ul ul) > li:nth-child(3n+2)::before {
+  list-style-type: none;
+  content: "";
+  position: absolute;
+  width: 2rem;
+  background: var(--timeline-active-color);
+  top: 0;
+  bottom: 0;
+  left: -1rem;
+  clip-path: polygon(1rem 0, 100% 0, 100% 100%, 1rem 100%, 0 50%);
+}
+.timeline.body-3 ul:not(ul ul) > li:nth-child(3n) {
+  list-style-type: none;
+  padding: 1.5rem;
+}
+
+.timeline.body-4 ul:not(ul ul) > li:nth-child(3n+2), .timeline.body-4 ul:not(ul ul) > li:nth-child(3n) {
+  list-style-type: none;
+  border-left: 0.3rem solid var(--timeline-active-color);
+}
+
+.timeline.line-2 ul:not(ul ul) > li:nth-child(3n+1)::before, .timeline.line-2 ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  right: -2.2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 50%;
+}
+.timeline.line-2 ul:not(ul ul) > li:nth-child(3n+1)::before {
+  list-style-type: none;
+  height: 1.2rem;
+  width: 1.2rem;
+}
+.timeline.line-2 ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  background: transparent;
+  border: 0.2rem solid var(--text-normal);
+  height: 0.8rem;
+  width: 0.8rem;
+  opacity: 0.15;
+}
+.timeline.line-2 ul:not(ul ul)::before {
+  list-style-type: none;
+  width: 0.2rem;
+  opacity: 0.15;
+}
+
+.timeline.line-3 ul:not(ul ul) > li:nth-child(3n+1)::before {
+  list-style-type: none;
+  background: var(--timeline-active-color);
+  height: 1rem;
+  width: 1rem;
+  border: 0.3rem solid var(--background-primary);
+  right: -2.45rem;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 50%;
+}
+.timeline.line-3 ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  background: transparent;
+}
+.timeline.line-3 ul:not(ul ul)::before {
+  list-style-type: none;
+  width: 0.3rem;
+  opacity: 0.15;
+}
+
+.timeline.line-4 ul:not(ul ul) > li:nth-child(3n+1)::before, .timeline.line-4 ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 50%;
+}
+.timeline.line-4 ul:not(ul ul) > li:nth-child(3n+1)::before {
+  list-style-type: none;
+  background: var(--text-normal);
+  height: 1.3rem;
+  width: 1.3rem;
+  right: -2.225rem;
+}
+.timeline.line-4 ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  opacity: 1;
+  background: var(--timeline-active-color);
+  height: 0.85rem;
+  width: 0.85rem;
+  right: -2rem;
+}
+.timeline.line-4 ul:not(ul ul)::before {
+  list-style-type: none;
+  opacity: 1;
+  width: 0.15rem;
+  background-color: transparent;
+  background-image: linear-gradient(var(--text-normal) 60%, rgba(255, 255, 255, 0) 0%);
+  background-position: right;
+  background-size: 0.15rem 1.5rem;
+  background-repeat: repeat-y;
+}
+
+.timeline.line-5 ul:not(ul ul) > li:nth-child(3n+1)::before, .timeline.line-5 ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  top: 50%;
+}
+.timeline.line-5 ul:not(ul ul) > li:nth-child(3n+1)::before {
+  list-style-type: none;
+  width: 3rem;
+  height: 3rem;
+  right: -3.1rem;
+  transform: translateY(-50%);
+}
+.timeline.line-5 ul:not(ul ul) > li:nth-child(3n+1)::after {
+  list-style-type: none;
+  width: 1rem;
+  height: 1rem;
+  right: 0;
+  transform: translateY(-50%) translateX(2.1rem) rotate(45deg);
+}
+.timeline.line-5 ul:not(ul ul)::before {
+  list-style-type: none;
+  width: 0.2rem;
+  opacity: 0.25;
+}

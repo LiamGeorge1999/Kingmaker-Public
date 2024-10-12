@@ -1,39 +1,31 @@
 {
   "main": {
-    "id": "6f24f19afd6b092a",
+    "id": "bfc2a0d0af28991a",
     "type": "split",
     "children": [
       {
-        "id": "270363da6396761c",
+        "id": "bd41325be200a322",
         "type": "tabs",
-        "dimension": 47.46192893401016,
         "children": [
           {
-            "id": "f609f4fbba83f81a",
+            "id": "152487fa1a9d4c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events Timeline/Events Timeline.md",
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "a4055d4694651375",
-        "type": "tabs",
-        "dimension": 52.53807106598984,
-        "children": [
+          },
           {
-            "id": "9de2c3b0fb84a60e",
+            "id": "3d17fedbc593d961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md",
+                "file": "Characters/Groups/House Quinn/House Quinn.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "17a57af78f3ef38c",
+    "id": "ce71bc21f17ad964",
     "type": "split",
     "children": [
       {
-        "id": "9ddabe71884304ec",
+        "id": "a3a46a20573d1bda",
         "type": "tabs",
         "children": [
           {
-            "id": "2b295efaa1b48379",
+            "id": "1490f25da9a3df33",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +55,7 @@
             }
           },
           {
-            "id": "829ae1a50b372c23",
+            "id": "476cb858a7e9632b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,10 +70,18 @@
             }
           },
           {
-            "id": "7c80a2e4cb902a4d",
+            "id": "12b87407566968ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9963bd0b2b6595fe",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
               "state": {}
             }
           }
@@ -89,23 +89,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "b5f70168a294be32",
+    "id": "f904d1dccf5bcb10",
     "type": "split",
     "children": [
       {
-        "id": "80c663e75656e78a",
+        "id": "d7337e6ed2ce3a62",
         "type": "tabs",
         "children": [
           {
-            "id": "c927449be982899b",
+            "id": "d2a546f23b433d86",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md",
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +118,19 @@
             }
           },
           {
-            "id": "0043723861882aee",
+            "id": "632ab88a5417910e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md",
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "17b792a8cb013b80",
+            "id": "38419c57496d61f4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +141,12 @@
             }
           },
           {
-            "id": "0d924fc82a3f7dc0",
+            "id": "aa4e353bd233d51f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md"
+                "file": "Characters/Groups/House Quinn/Conláed Quinn.md"
               }
             }
           }
@@ -158,7 +159,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,43 +167,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9de2c3b0fb84a60e",
+  "active": "152487fa1a9d4c2b",
   "lastOpenFiles": [
+    "Characters/Groups/House Quinn/Gráinne Fionnúir-Quinn.md",
+    "Characters/Groups/House Quinn/Áine Fionnúir-Quinn (Deceased).md",
+    "Characters/Groups/House Quinn/Róisín Quinn.md",
+    "Characters/Groups/House Quinn/Duinn Quinn.md",
+    "Characters/Groups/House Quinn/Conláed Quinn.md",
+    "Characters/Groups/The Obsidian Eye/Ronán Quinn.md",
+    "Characters/Groups/House Quinn/Áos Quinn (Deceased).md",
+    "Characters/Groups/The Obsidian Eye/Lindzi.md",
+    "Characters/Groups/House Quinn/House Quinn.md",
+    "Characters/Groups/The Obsidian Eye/Jaethal.md",
     "Events Timeline/Events Timeline.md",
-    "Entities/Groups/The Obsidian Eye/Victor.md",
-    "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
-    "Entities/Groups/The Obsidian Eye/Jaethal (Deceased).md",
-    "Locations/The Stolen Lands/Northern Narlmarches/The Temple of the Elk.md",
-    "Locations/Kingdom of Pitax/Kingdom of Pitax.md",
-    "Locations/The Stolen Lands/Northern Narlmarches/Northern Narlmarches.md",
-    "Locations/The Stolen Lands/The Stolen Lands.md",
-    "Locations/Kingdom of Pitax/Pitax.md",
-    "Locations/Kingdom of Pitax",
-    "Locations/Untitled",
-    "Locations/The Stolen Lands/Northern Narlmarches",
-    "Locations/Kingom of Brevoy/Kingom of Brevoy.md",
-    "Locations/The Stolen Lands",
-    "Locations/Kingom of Brevoy",
-    "Artifacts/The Charter.md",
-    "Entities/Jamandi Aldori.md",
-    "Locations/Kingom of Brevoy/Aldori Manor.md",
-    "Locations/The Stolen Lands/Northern Narlmarches/Thorn River Bandit Hideout.md",
-    "Events Timeline/Unquiet.md",
-    "Locations/The Stolen Lands/Northern Narlmarches/Thorn River.md",
-    "Entities/Oleg.md",
-    "Events Timeline/Stand By Your Post.md",
-    "Entities/Svetlana.md",
-    "Entities/Tartucio.md",
-    "Entities/Valorie.md",
-    "Entities/Harrim.md",
-    "Entities/Groups/The Obsidian Eye/Pride.md",
-    "Events Timeline/Old Blades, New Blood.md",
-    "Events Timeline/Old Friends, New Problems.md",
-    "Entities/Groups/House Quinn/Conláed Quinn.md",
-    "Locations",
+    "Characters/Groups/The Obsidian Eye/The Obsidian Eye.md",
+    "Old Friends and New Problems.md",
+    "Characters/Groups/The Obsidian Eye/Victor.md",
+    "Characters/Groups/The Obsidian Eye/Thaeden Evergreen.md",
+    "Characters/Groups/The Obsidian Eye/Septus Valron.md",
+    "Characters/Groups/The Obsidian Eye/Ameri.md",
+    "Characters/Oleg.md",
+    "Characters/Lady Jamandi Aldori.md",
+    "Events Timeline/Opening the Eye.md",
+    "Characters/Groups/Untitled.md",
+    "Characters/Svetlana.md",
+    "Characters/Groups/The Obsidian Eye",
+    "Events Timeline/The Feast at Aldori Manor.md",
     "Events Timeline",
-    "Entities/Groups/The Obsidian Eye",
-    "Entities/Groups/House Quinn",
-    "Entities/Groups"
+    "Untitled.md",
+    "Places/Aldori Manor.md",
+    "Events Timeline/The Aldori Manor Raid.md",
+    "Characters/Groups/House Quinn",
+    "Characters/Groups",
+    "Artifacts",
+    "Events",
+    "Places",
+    "Characters",
+    "timeline-snippet.css",
+    "timeline-snippet.css.txt"
   ]
 }

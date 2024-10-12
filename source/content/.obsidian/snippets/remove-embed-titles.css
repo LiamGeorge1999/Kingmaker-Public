@@ -1,0 +1,11 @@
+.notrim .internal-embed .markdown-embed-title {
+	display: none;
+}
+
+.notrim .markdown-embed {
+	border-left-width: 0px;
+}
+
+.internal-embed .markdown-embed-content div h2 {
+	display: none;
+}
