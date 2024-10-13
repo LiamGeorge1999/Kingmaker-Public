@@ -13,4 +13,6 @@ Leaving a note in support of his sister's unwanted claim to [[House Quinn]], he 
 
 After leading a few rag-tag team jobs, he found that his fame drew the attention of [[House Quinn]] when [[Conláed Quinn|Conláed]] sent him a letter asking him to come home and finish his training as a knight in order to take the mantle of lord of the house, and bringing news of his sister [[Róisín Quinn|Róisín]]'s ill health. Ignoring the letter and hoping to evade a more formal summons and shake off the debt of gold and favours owed to grislier fellow mercenaries from dirty jobs, he heeded the summons to [[The Feast at Aldori Manor]].
 ## Relationships
-Ronan kept company with [[Thaeden Evergreen]] for some time before [[The Feast at Aldori Manor]]
+[[Ronán Quinn|Ronán]] kept company with [[Thaeden Evergreen]] for some time before [[The Feast at Aldori Manor]], and tends to seek his council when possible about religious and magical matters - calling him the "Staff Sorcerer" after the [[Opening the Eye|formation of the Obsidian Eye]].
+
+Additionally, he took emotional support from [[Victor|V]] after [[False Haven|the events]] beneath [[Fort Serenko]].

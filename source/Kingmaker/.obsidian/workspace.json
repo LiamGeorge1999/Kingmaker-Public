@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "270363da6396761c",
-        "type": "tabs",
-        "dimension": 47.46192893401016,
-        "children": [
-          {
-            "id": "f609f4fbba83f81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events Timeline/Events Timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a4055d4694651375",
         "type": "tabs",
-        "dimension": 52.53807106598984,
         "children": [
           {
             "id": "9de2c3b0fb84a60e",
@@ -33,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md",
+                "file": "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md",
+                "file": "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md",
+                "file": "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entities/Groups/The Obsidian Eye/Victor.md"
+                "file": "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md"
               }
             }
           }
@@ -169,10 +149,20 @@
   },
   "active": "9de2c3b0fb84a60e",
   "lastOpenFiles": [
-    "Events Timeline/Events Timeline.md",
     "Entities/Groups/The Obsidian Eye/Victor.md",
-    "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
+    "index.md",
+    "Events Timeline/False Haven.md",
     "Entities/Groups/The Obsidian Eye/Jaethal (Deceased).md",
+    "Entities/Groups/The Obsidian Eye/Ronán Quinn.md",
+    "Entities/Groups/The Obsidian Eye/Thaeden Evergreen.md",
+    "Events Timeline/Unburied.md",
+    "Events Timeline/Opening the Eye.md",
+    "Events Timeline/Tit for Tat.md",
+    "Events Timeline/Departure.md",
+    "Events Timeline/Rocky Road.md",
+    "Spaces/Home",
+    "Spaces",
+    "Events Timeline/Events Timeline.md",
     "Locations/The Stolen Lands/Northern Narlmarches/The Temple of the Elk.md",
     "Locations/Kingdom of Pitax/Kingdom of Pitax.md",
     "Locations/The Stolen Lands/Northern Narlmarches/Northern Narlmarches.md",
@@ -192,18 +182,8 @@
     "Locations/The Stolen Lands/Northern Narlmarches/Thorn River.md",
     "Entities/Oleg.md",
     "Events Timeline/Stand By Your Post.md",
-    "Entities/Svetlana.md",
-    "Entities/Tartucio.md",
-    "Entities/Valorie.md",
-    "Entities/Harrim.md",
-    "Entities/Groups/The Obsidian Eye/Pride.md",
-    "Events Timeline/Old Blades, New Blood.md",
-    "Events Timeline/Old Friends, New Problems.md",
-    "Entities/Groups/House Quinn/Conláed Quinn.md",
     "Locations",
     "Events Timeline",
-    "Entities/Groups/The Obsidian Eye",
-    "Entities/Groups/House Quinn",
-    "Entities/Groups"
+    "Entities/Groups/The Obsidian Eye"
   ]
 }

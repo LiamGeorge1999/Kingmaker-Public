@@ -40,7 +40,21 @@
     "//The Story",
     "//The Story",
     "//The Story",
-    "//The Story"
+    "//The Story",
+    "//Locations",
+    "//Locations",
+    "//Locations/Locations/The Stolen Lands",
+    "//Locations/Locations/Kingom of Brevoy",
+    "//Locations/Locations/Kingdom of Pitax",
+    "//Spaces/Spaces/Home",
+    "//Spaces/Spaces/Home",
+    "//Events Timeline",
+    "//Entities",
+    "//Artifacts",
+    "//Events Timeline",
+    "//Events Timeline",
+    "//Events Timeline",
+    "//Events Timeline"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -53,6 +67,7 @@
   "hiddenExtensions": [
     ".mdb"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
