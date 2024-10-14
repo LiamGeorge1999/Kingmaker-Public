@@ -63,7 +63,7 @@ jobs:
       - name: Build Quartz
         run: |
           npm install
-          npx quartz build
+          npx quartz build --directory=Kingmaker
         working-directory: ./source
 
       - name: Copy raw HTML folder
