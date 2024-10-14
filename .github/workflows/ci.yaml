@@ -37,7 +37,7 @@ jobs:
         working-directory: ./source
 
       - name: Ensure Quartz builds, check bundle info
-        run: npx quartz build --bundleInfo
+        run: npx quartz build --bundleInfo --directory=Kingmaker
         working-directory: ./source
 
   deploy:
